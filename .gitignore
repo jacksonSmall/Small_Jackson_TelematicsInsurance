@@ -1,0 +1,32 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
+
+# IDE/project settings
+.vscode/
+.idea/
+
+# Build / dist files
+dist/
+build/
+*.egg-info/
+
+# Jupyter / Streamlit checkpoints
+.ipynb_checkpoints/
+.cache/
+
+# Models (generated during training)
+models/*.pkl
