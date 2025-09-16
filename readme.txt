@@ -48,7 +48,7 @@ Setup Instructions:
 uvicorn src.api:app --reload
 
 5. In another terminal show the dashboard by:
-streamlit run src/dashboard.py
+python -m streamlit run src/dashboard.py
 
 The metrics as of now are printed after the model_train.py execution. Enjoy!
 
