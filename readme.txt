@@ -1,6 +1,6 @@
 github.com/jacksonSmall/Small_Jackson_TelematicsInsurance
 
-Insurity Driver Risk Scoring Platform
+Driver Risk Scoring Platform
 
 Folder Structure:
 -----------------
