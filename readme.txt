@@ -4,7 +4,7 @@ Driver Risk Scoring Platform
 
 Folder Structure:
 -----------------
-insurity/
+Small_Jackson_TelematicsInsurance
 │
 ├─ bin/
 ├─ data/
